@@ -1,0 +1,94 @@
+.Tamaño-carta {
+    background-color: solid white;
+    border: 1px solid black;
+    width: 8.5in;
+    height: 11in;
+}
+
+.Margen-izquierdo {
+    margin-left: 0px;
+    background-color: #5654FB;
+    border: 0px solid white;
+    width: 1in;
+    height: 11in;
+    float: left;
+}
+
+.Image-profile {
+    border: 1px solid white;
+    width: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    vertical-align: text-top;
+    text-align: left;
+}
+
+.Columna-izquierda {
+    width: 2in;
+    height: 11in;
+    vertical-align: middle;
+    float: left;
+    margin-left: 10px;
+}
+
+.Columna-derecha {
+    width: 5in;
+    height: 10in;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    margin-top: 10px;
+    border-left: 1px solid gray;
+    float: right;
+}
+
+.Educacion {
+    margin-bottom: auto;
+}
+
+h1 {
+    color: black;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 70px;
+    font-weight:100;
+    margin-top: 0in;
+    margin-bottom: 50px;
+}
+
+h2 {
+    color: #5654FB;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 14px;
+    font-weight: 250;
+    text-decoration: underline;
+}
+
+h3 {
+    color: gray;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 13px;
+    font-weight: 200;
+}
+
+h4 {
+    color: rgb(45, 45, 45);
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 12px;
+    font-weight: 200;
+
+}
+
+p {
+    color: gray;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 12px;
+}
+
+ul {
+    color: gray;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 12px;
+    padding-left: 20px;
+}
